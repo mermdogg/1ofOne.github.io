@@ -1,0 +1,7 @@
+{
+  "name": "1 of One",
+  "description": "Define your unique style. Upload your photo, select exclusive pieces, and see your 1 of One look come to life with AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
